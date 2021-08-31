@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gyanaranjan Panda
-- 👀 I’m interested in software development, Artificial Intelligence
+- 👀 I’m interested in software development, Data structure and Algorithms
 - 🌱 I’m currently learning at MNNIT Allahabad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - mail on gyanaranjan.panda37@gmail.com
